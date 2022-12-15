@@ -1,8 +1,8 @@
-### Hola mundo! 👋
+< Hola :earth_americas: mundo! />
 
-Hola, Soy Cecilia Perdomo
+Hola, Soy Cecilia Perdomo.
 
-Full stack developer 👨‍💻.
+Full stack developer :computer:
 
 <!--
 **CeciliaBPerdomo/CeciliaBPerdomo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
