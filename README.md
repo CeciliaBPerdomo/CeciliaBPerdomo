@@ -18,6 +18,9 @@ Sobre mi:
 
 --------------------------
 
+![imagen](https://user-images.githubusercontent.com/83676442/207985362-947fffb4-0a42-443f-9570-0d5ca36cf732.png)
+
+
 <!--
 **CeciliaBPerdomo/CeciliaBPerdomo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
