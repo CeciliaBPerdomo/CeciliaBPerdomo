@@ -1,8 +1,8 @@
+![](https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif)
+
 < Hola :earth_americas: mundo! />
 
---------------------------
-
-Hola, Soy Cecilia Perdomo.
+Hola, Soy Cecilia Perdomo.                          
 
 Full stack developer :computer:
 
@@ -18,10 +18,10 @@ Sobre mi:
 
 --------------------------
 
-![imagen](https://user-images.githubusercontent.com/83676442/207985362-947fffb4-0a42-443f-9570-0d5ca36cf732.png)
-
 
 <!--
+
+https://upload.wikimedia.org/wikipedia/ar/7/7a/Dino_Swords.gif) 
 **CeciliaBPerdomo/CeciliaBPerdomo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
