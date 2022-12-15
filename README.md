@@ -1,5 +1,9 @@
 ### Hola mundo! 👋
 
+Hola, Soy Cecilia Perdomo
+
+Full stack developer 👨‍💻.
+
 <!--
 **CeciliaBPerdomo/CeciliaBPerdomo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
