@@ -2,11 +2,6 @@
 
 ### < Hola :earth_americas: mundo, soy Cecilia Perdomo! :computer: Full stack developer />
 
-
-
-<img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/html_button_icon_151929.png" width="105" height="40" /> <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/css_button_icon_151935.png" width="105" height="40" /> <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/js_button_icon_151927.png" width="125" height="40" /> <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/react_button_icon_151947.png" width="105" height="40" /> <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/angular_button_icon_151960.png" width="125" height="40" /> <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/nodejs_button_icon_151951.png" width="105" height="40" />
-
-
 #### Sobre mi: 
 
 - 🌎 Soy de Colonia del Sacramento, Uruguay
@@ -15,6 +10,13 @@
 - :books: Me gusta leer 
 - :headphones: Me gusta escuchar música
 - 🌱 Actualmente investigando sobre el mundo UX
+
+
+#### Tech & Herramientas:
+
+<img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/html_button_icon_151929.png" width="105" height="40" /> <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/css_button_icon_151935.png" width="105" height="40" /> <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/js_button_icon_151927.png" width="125" height="40" /> <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/react_button_icon_151947.png" width="105" height="40" /> <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/angular_button_icon_151960.png" width="125" height="40" /> <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/nodejs_button_icon_151951.png" width="125" height="40" /> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/github_logo_icon_168170.png" width="125" height="50" /> <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_macos_bigsur_icon_189815.png" width="40" height="40" />
+
+
 
 
 <!--
