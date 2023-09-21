@@ -5,7 +5,7 @@
 #### Sobre mi: 
 
 - 🌎 Soy de Colonia del Sacramento, Uruguay
-- 💻 Me gusta programar
+- 💻 Soy Full Stack Software Developer, Diseñadora UX/UI, Analista programadora
 - 💎 Soy curiosa e inquieta
 - :books: Me gusta leer 
 - :headphones: Me gusta escuchar música
