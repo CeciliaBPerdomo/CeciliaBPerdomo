@@ -10,7 +10,6 @@
 - :books: Me gusta leer 
 - :headphones: Me gusta escuchar música
 
-
 #### Lenguajes, Frameworks & Herramientas:
 
 <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/html_button_icon_151929.png" width="105" height="40" /> <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/css_button_icon_151935.png" width="105" height="40" /> <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/bootstrap_button_icon_151958.png" width="125" height="40"/> <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/js_button_icon_151927.png" width="125" height="40" /> <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/react_button_icon_151947.png" width="105" height="40" /> <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/angular_button_icon_151960.png" width="125" height="40" /> <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/nodejs_button_icon_151951.png" width="125" height="40" /> 
@@ -21,6 +20,8 @@
 #### Amor 💛 del bueno: 
 <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/python_button_icon_151925.png" width="125" height="40" /> 
 
+#### Certificada por MercadoPago: 
+<img src="https://1000marcas.net/wp-content/uploads/2023/01/Mercado-Pago-Logo-thumb.png" width="125" height="70" />
 
 #### Me puedes contactar por: 
 <a href="https://www.linkedin.com/in/cecilia-perdomo/"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/linkedin_button_icon_151847.png" width="125" height="40" /></a> <a href="mailto:cecilia.perdomo@gmail.com?subject=Contacto desde GitHub"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/gmail_button_icon_151848.png" width="125" height="40" /> </a>
