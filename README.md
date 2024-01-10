@@ -1,6 +1,6 @@
 <img src="https://www.workifit.com/static/1e69b64e49b07e5068e951002ceb316c/0_K2WLMTExLyida7OR.gif"/>
 
-### < Hola :earth_americas: mundo, soy Cecilia Perdomo! :computer: Full stack developer />
+### < Hola :earth_americas: mundo, soy Cecilia Perdomo! :computer: Full Stack Software Developer />
 
 #### Sobre mi: 
 
