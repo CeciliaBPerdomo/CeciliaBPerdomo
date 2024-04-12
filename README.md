@@ -98,7 +98,7 @@
 </table>
 
 #### Certificada por MercadoPago: 
-<img src="https://1000marcas.net/wp-content/uploads/2023/01/Mercado-Pago-Logo-thumb.png" width="125" height="70" />
+<img src="mercado-pago.png" width="125" height="70" />
 
 #### Me puedes contactar por: 
 <a href="https://www.linkedin.com/in/cecilia-perdomo/"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/linkedin_button_icon_151847.png" width="125" height="40" /></a> <a href="mailto:cecilia.perdomo@gmail.com?subject=Contacto desde GitHub"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/gmail_button_icon_151848.png" width="125" height="40" /> </a>
