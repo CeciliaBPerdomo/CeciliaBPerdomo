@@ -1,14 +1,20 @@
-<img src="https://www.workifit.com/static/1e69b64e49b07e5068e951002ceb316c/0_K2WLMTExLyida7OR.gif"/>
+
+<img src="https://media.licdn.com/dms/image/D4D16AQG13V3tuRadxA/profile-displaybackgroundimage-shrink_350_1400/0/1712927596414?e=1718236800&v=beta&t=7dASGD5l6wzhPu264jOxPJxlfEgISb56CggMkRBkSR8" 
+  width="85%"/>
 
 ### < Hola :earth_americas: mundo, soy Cecilia Perdomo! :computer: Full Stack Software Developer />
 
 #### Sobre mi: 
 
-- 🌎 Soy de Colonia del Sacramento, Uruguay
-- 💻 Soy Full Stack Software Developer, Diseñadora UX/UI, Analista programadora, Scrum Master
-- 💎 Soy curiosa e inquieta
-- :books: Me gusta leer 
-- :headphones: Me gusta escuchar música
+- 🌎 Soy de Colonia del Sacramento, Uruguay.
+- 💎 Soy curiosa, inquieta y me gusta aprender.
+- 💻 Soy:
+  -  Full Stack Software Developer
+  - Analista programadora
+  - Desarrolladora de aplicaciones móviles
+  - Diseñadora UX/UI
+  - Scrum Master
+- :books: Me gusta leer y :headphones: escuchar música.
 
 #### Lenguajes, Frameworks & Herramientas:
 
