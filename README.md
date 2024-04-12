@@ -16,6 +16,9 @@
   - Scrum Master
 - :books: Me gusta leer y :headphones: escuchar música.
 
+<img src="Tecnologias utilizadas.png" 
+  width="90%" align="center"/>
+
 #### Lenguajes, Frameworks & Herramientas:
 
 <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/html_button_icon_151929.png" width="105" height="40" /> <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/css_button_icon_151935.png" width="105" height="40" /> <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/bootstrap_button_icon_151958.png" width="125" height="40"/> <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/js_button_icon_151927.png" width="125" height="40" /> <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/react_button_icon_151947.png" width="105" height="40" /> <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/angular_button_icon_151960.png" width="125" height="40" /> <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/nodejs_button_icon_151951.png" width="125" height="40" /> 
