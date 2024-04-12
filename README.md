@@ -2,7 +2,7 @@
 <img src="https://media.licdn.com/dms/image/D4D16AQG13V3tuRadxA/profile-displaybackgroundimage-shrink_350_1400/0/1712927596414?e=1718236800&v=beta&t=7dASGD5l6wzhPu264jOxPJxlfEgISb56CggMkRBkSR8" 
   width="85%"/>
 
-### < Hola :earth_americas: mundo, soy Cecilia Perdomo! :computer: Full Stack Software Developer />
+### < Hola :earth_americas: mundo, soy Cecilia Perdomo! :computer: />
 
 #### Sobre mi: 
 
