@@ -22,16 +22,16 @@
 <table>
   <tr align="center"> 
     <th>
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsubI1xnS2EsbFC7IKOtHXy3o2yp5zNGHX8-mLk-0nVw&s" alt="HTML" height="100px" />
+      <img src="01-Html5.png" alt="HTML"/>
     </th>
     <th>
-      <img src="https://www.shutterstock.com/image-vector/logo-vector-css-3-low-600nw-1902943426.jpg" alt="CSS" height="100px" />
+      <img src="02-css.png" alt="CSS" />
     </th>
      <th>
-      <img src="https://seeklogo.com/images/B/bootstrap-logo-69A1CCC10B-seeklogo.com.png" height="100px" />
+      <img src="03-Bootstrap.png" alt="Bootstrap"/>
     </th>
     <th>
-      <img src="https://getlogovector.com/wp-content/uploads/2021/01/tailwind-css-logo-vector.png" height="120px" />
+      <img src="04-tailwind.png" alt="Tailwind CSS" />
     </th>
   </tr>
   
