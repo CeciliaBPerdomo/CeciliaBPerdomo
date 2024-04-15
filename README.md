@@ -30,30 +30,33 @@
      <th>
       <img src="03-Bootstrap.png" alt="Bootstrap"/>
     </th>
-    <th>
-      <img src="04-tailwind.png" alt="Tailwind CSS" />
-    </th>
   </tr>
   
   <tr align="center">
+    <th>
+      <img src="04-tailwind.png" alt="Tailwind CSS" />
+    </th>
     <th>
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Javascript_badge.svg/946px-Javascript_badge.svg.png" height="100px" />
     </th>
     <th>
       <img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/typescript-def.png" alt="TypeScript" height="100px" />
-    </th>
-    <th>
+    </th>     
+  </tr>
+
+  <tr align="center">
+     <th>
       <img src="https://cdn.freelogovectors.net/wp-content/uploads/2023/02/react-logo-freelogovectors.net_.png" height="100px" />
     </th>
      <th>
       <img src="https://www.pngitem.com/pimgs/m/514-5142665_react-native-transparent-react-native-logo-png-png.png" height="100px"/>
-    </th>       
-  </tr>
-
-  <tr align="center">
+    </th>  
     <th>
       <img src="https://seeklogo.com/images/N/next-js-logo-7929BCD36F-seeklogo.com.png" height="100px" />
     </th>
+  </tr>
+
+  <tr align="center">  
     <th>
       <img src="https://miro.medium.com/v2/resize:fit:640/1*6Lj4amyOX_v7EcYZdNIBUQ.png" height="100px" />
     </th>
@@ -75,12 +78,12 @@
     <th>
       <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Firebase_Logo.png" alt="FireBase" height="100px" />
     </th>
-    <th>
-      <img src="https://1000marcas.net/wp-content/uploads/2020/02/logo-GitHub.png" alt="Github" height="120px" />
-    </th>
   </tr>
 
   <tr align="center">
+    <th>
+      <img src="https://1000marcas.net/wp-content/uploads/2020/02/logo-GitHub.png" alt="Github" height="120px" />
+    </th>
      <th>
       <img src="https://cdn.worldvectorlogo.com/logos/scrumorg-1.svg" alt="Scrum" height="100px" />
     </th>
