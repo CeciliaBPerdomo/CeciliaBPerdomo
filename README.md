@@ -27,14 +27,14 @@
     <th>
       <img src="02-css.png" alt="CSS" />
     </th>
-     <th>
-      <img src="03-Bootstrap2.png" alt="Bootstrap"/>
+    <th>
+      <img src="04-tailwind3.png" alt="Tailwind CSS" />
     </th>
   </tr>
   
   <tr align="center">
-    <th>
-      <img src="04-tailwind.png" alt="Tailwind CSS" />
+     <th>
+      <img src="03-Bootstrap3.png" alt="Bootstrap"/>
     </th>
     <th>
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Javascript_badge.svg/946px-Javascript_badge.svg.png" height="100px" />
