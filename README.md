@@ -21,5 +21,5 @@
 <img src="final2.png" align="center"/>
 
 
-#### Me puedes contactar por: 
+<img src="Contacto.png" width="90%" align="center" />
 <a href="https://www.linkedin.com/in/cecilia-perdomo/"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/linkedin_button_icon_151847.png" width="125" height="40" /></a> <a href="mailto:cecilia.perdomo@gmail.com?subject=Contacto desde GitHub"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/gmail_button_icon_151848.png" width="125" height="40" /> </a>
