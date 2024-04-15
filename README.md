@@ -28,7 +28,7 @@
       <img src="02-css.png" alt="CSS" />
     </th>
      <th>
-      <img src="03-Bootstrap.png" alt="Bootstrap"/>
+      <img src="03-Bootstrap2.png" alt="Bootstrap"/>
     </th>
   </tr>
   
