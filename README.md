@@ -17,7 +17,7 @@
 - :books: Me gusta leer y :headphones: escuchar música.
 
 <img src="Tecnologias utilizadas.png" width="90%" align="center"/>
-<img src="final.png" width="85%" align="center"/>
+<img src="final3.png" width="85%" align="center"/>
 <img src="final2.png" align="center"/>
 
 
