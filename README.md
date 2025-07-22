@@ -2,6 +2,7 @@
 <img src="Cecilia Perdomo.png" 
   width="90%" align="center"/>
 
+## 👩🏻‍💻 Mi Perfil 
 ### < Hola :earth_americas: mundo, soy Cecilia Perdomo! :computer: />
 
 #### Sobre mi: 
