@@ -1,5 +1,5 @@
 
-<img src="Encabezado.jpeg" 
+<img src="Cecilia Perdomo.png" 
   width="90%" align="center"/>
 
 ### < Hola :earth_americas: mundo, soy Cecilia Perdomo! :computer: />
