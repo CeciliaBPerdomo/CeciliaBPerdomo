@@ -29,17 +29,18 @@
 |  | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) |  |  | | |
 
 
-<img src="Proyectos.png" width="90%" align="center" />
+## 🚀 Proyectos destacados
 
-| Nombre del proyecto | Curso | Tecnologías utilizadas | Github |
-| :---         |     :---      |          :--- | :--- |
-| StarWars | https://star-wars-next-js-firebase.vercel.app | Next.js, Firebase | https://github.com/CeciliaBPerdomo/StarWars-NextJs-Firebase |
-| Mis Libritos | Desarrollo de aplicaciones | React Native, Redux, Firebase | https://github.com/CeciliaBPerdomo/18.ReactNative.ProyectoFinal |
-| Electrodomésticos Capellari | Next.js | Next.js, Firebase | https://github.com/CeciliaBPerdomo/MicroDesafios-Nextjs |
-| Activa Fitness Club | Full Stack Software Developer | React.js, Pyhton, SQLAlchemy | https://github.com/CeciliaBPerdomo/ActivaFitnessClub |
-| Tienda Azul | Certificación Mercado Pago | React.js, Pyhton, API MP | https://github.com/CeciliaBPerdomo/MP-Tienda-Azul |
-| E-Commerce | Programación Backend | Node.js, MondoDB | https://github.com/CeciliaBPerdomo/Ecommerce-ProyectoFinal |
-| Farmacia | Programación Frontend | TypeScript | https://github.com/CeciliaBPerdomo/FarmaciaCP |
+| 📝 Nombre del Proyecto | 📚 Curso | 🧩 Tecnologías Utilizadas | 🔗 GitHub |
+|------------------------|----------|---------------------------|-----------|
+| [StarWars](https://star-wars-next-js-firebase.vercel.app) | — | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) | [🔗 Repositorio](https://github.com/CeciliaBPerdomo/StarWars-NextJs-Firebase) |
+| [Mis Libritos](https://github.com/CeciliaBPerdomo/18.ReactNative.ProyectoFinal) | Desarrollo de aplicaciones | ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB) ![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) | [🔗 Repositorio](https://github.com/CeciliaBPerdomo/18.ReactNative.ProyectoFinal) |
+| [Electrodomésticos Capellari](https://github.com/CeciliaBPerdomo/MicroDesafios-Nextjs) | Next.js | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) | [🔗 Repositorio](https://github.com/CeciliaBPerdomo/MicroDesafios-Nextjs) |
+| [Activa Fitness Club](https://github.com/CeciliaBPerdomo/ActivaFitnessClub) | Full Stack Software Developer | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-0172C6?style=flat&logo=sql&logoColor=white) | [🔗 Repositorio](https://github.com/CeciliaBPerdomo/ActivaFitnessClub) |
+| [Tienda Azul](https://github.com/CeciliaBPerdomo/MP-Tienda-Azul) | Certificación Mercado Pago | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Mercado Pago](https://img.shields.io/badge/Mercado_Pago-009ee3?style=flat&logo=mercadopago&logoColor=white) | [🔗 Repositorio](https://github.com/CeciliaBPerdomo/MP-Tienda-Azul) |
+| [E-Commerce](https://github.com/CeciliaBPerdomo/Ecommerce-ProyectoFinal) | Programación Backend | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) | [🔗 Repositorio](https://github.com/CeciliaBPerdomo/Ecommerce-ProyectoFinal) |
+| [Farmacia](https://github.com/CeciliaBPerdomo/FarmaciaCP) | Programación Frontend | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) | [🔗 Repositorio](https://github.com/CeciliaBPerdomo/FarmaciaCP) |
+
 
 
 <img src="Contacto.png" width="90%" align="center" />
