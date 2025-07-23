@@ -1,7 +1,4 @@
-<p align="center">
-<img src="Cecilia Perdomo.png" 
-  width="90%" />
-</p>
+<img src="Cecilia Perdomo.png" />
 
 ## 👩🏻‍💻 Mi Perfil 
 ### < Hola :earth_americas: mundo, soy Cecilia Perdomo! :computer: />
