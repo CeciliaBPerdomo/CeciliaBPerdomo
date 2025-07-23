@@ -4,6 +4,7 @@
 
 ## 👩🏻‍💻 Mi Perfil 
 ### < Hola :earth_americas: mundo, soy Cecilia Perdomo! :computer: />
+> 💡 *Siempre creando, siempre aprendiendo.*
 
 ## Sobre mí:
 
@@ -21,7 +22,6 @@
 - ✈️ Me encanta viajar a destinos raros, cuanto más inesperado mejor.  
 - 🥳 Salir con mis amigos: buenas charlas, muchas risas y algo rico para compartir.  
 
-> 💡 *Siempre creando, siempre aprendiendo.*
 > 👑 **#CodeQueen**
 
 ## 🛠️ Tecnologías que manejo
