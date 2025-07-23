@@ -46,7 +46,8 @@
 
 
 ## 📬 Contacto
-| 🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cecilia-perdomo/) 
-| 📧 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:cecilia.perdomo@gmail.com?subject=Contacto%20desde%20GitHub) 
-| 🐙 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/CeciliaBPerdomo) 
-| 🌐 [![Web](https://img.shields.io/badge/Web-4CAF50?style=flat&logo=internet-explorer&logoColor=white)](https://tusitio.com) |
+
+| Vías de contacto |
+|----------|
+| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cecilia-perdomo/) &nbsp;&nbsp; [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:cecilia.perdomo@gmail.com?subject=Contacto%20desde%20GitHub) &nbsp;&nbsp; [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/CeciliaBPerdomo) &nbsp;&nbsp; [![Web](https://img.shields.io/badge/Web-4CAF50?style=flat&logo=internet-explorer&logoColor=white)](https://tusitio.com) |
+
