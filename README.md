@@ -42,13 +42,11 @@
 | [Farmacia](https://github.com/CeciliaBPerdomo/FarmaciaCP) | App frontend para gestión de farmacia. | Programación Frontend | Taller de Informática | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) |
 
 
-## Me puedes contactar mediante:
+## 📬 Contacto
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/cecilia-perdomo/" target="_blank" rel="noopener noreferrer" style="margin-right: 20px;">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:cecilia.perdomo@gmail.com?subject=Contacto desde GitHub" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
+| Plataforma | Link |
+|------------|------|
+| 🔗 [LinkedIn](https://www.linkedin.com/in/cecilia-perdomo/) | ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white) |
+| 📧 [Correo](mailto:cecilia.perdomo@gmail.com?subject=Contacto desde GitHub) | ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white) |
+| 🐙 [GitHub](https://github.com/CeciliaBPerdomo) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) |
+| 🌐 [Web personal](https://tusitio.com) | ![Globe](https://img.shields.io/badge/Web-4CAF50?style=flat&logo=internet-explorer&logoColor=white) |
