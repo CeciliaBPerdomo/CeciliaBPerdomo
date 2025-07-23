@@ -42,11 +42,9 @@
 | [Farmacia](https://github.com/CeciliaBPerdomo/FarmaciaCP) | App frontend para gestión de farmacia. | Programación Frontend | Taller de Informática | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) |
 
 
-## 📬 Contacto
-
 | Plataforma | Link |
 |------------|------|
 | 🔗 [LinkedIn](https://www.linkedin.com/in/cecilia-perdomo/) | ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white) |
-| 📧 [Correo](mailto:cecilia.perdomo@gmail.com?subject=Contacto desde GitHub) | ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white) |
+| 📧 [Correo](mailto:cecilia.perdomo@gmail.com?subject=Contacto%20desde%20GitHub) | ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white) |
 | 🐙 [GitHub](https://github.com/CeciliaBPerdomo) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) |
-| 🌐 [Web personal](https://tusitio.com) | ![Globe](https://img.shields.io/badge/Web-4CAF50?style=flat&logo=internet-explorer&logoColor=white) |
+| 🌐 [Web personal](https://tusitio.com) | ![Web](https://img.shields.io/badge/Web-4CAF50?style=flat&logo=internet-explorer&logoColor=white) |
