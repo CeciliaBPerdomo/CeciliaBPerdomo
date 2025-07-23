@@ -9,15 +9,18 @@
 
 - 📍 Desde la hermosa Colonia del Sacramento, Uruguay.  
 - 🚀 Curiosa de nacimiento, inquieta por elección, aprendizaje a full.  
-- 💼 Full Stack Software Developer & Analista Programadora.  
-- 📱 Desarrolladora de apps móviles que hacen magia.  
-- 🎨 Diseñadora UX/UI que entiende a la gente (y al pixel).  
-- 🛠 Scrum Master, porque el orden también es sexy.  
+- 💼 **Full Stack Software Developer** & **Analista Programadora**.  
+- 📱 **Desarrolladora de apps móviles** que hacen magia.  
+- 🎨 **Diseñadora UX/UI** que entiende a la gente (y al pixel).  
+- 🛠 **Scrum Master**, porque el orden también es sexy.  
 
 ## Pasatiempos:
 - 📚 Devoro libros como si fueran código.  
 - 🎧 Música en repeat, soundtrack de mi vida.  
+- ✈️ Me encanta viajar a destinos raros, cuanto más inesperado mejor.  
+- 🥳 Salir con mis amigos: buenas charlas, muchas risas y algo rico para compartir.  
 
+> 💡 *Siempre creando, siempre aprendiendo.*
 
 ## 🛠️ Tecnologías que manejo
 
