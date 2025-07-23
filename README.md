@@ -3,7 +3,7 @@
   width="90%" align="center"/>
 
 ## 👩🏻‍💻 Mi Perfil 
-## < Hola :earth_americas: mundo, soy Cecilia Perdomo! :computer: />
+### < Hola :earth_americas: mundo, soy Cecilia Perdomo! :computer: />
 
 ## Sobre mí:
 
