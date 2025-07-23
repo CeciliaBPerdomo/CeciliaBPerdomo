@@ -41,7 +41,14 @@
 | [E-Commerce](https://github.com/CeciliaBPerdomo/Ecommerce-ProyectoFinal) | Backend para tienda online de películas. | Programación Backend | CoderHouse | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
 | [Farmacia](https://github.com/CeciliaBPerdomo/FarmaciaCP) | App frontend para gestión de farmacia. | Programación Frontend | Taller de Informática | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) |
 
-<img src="Contacto.png" width="90%" align="center" />
 
-### Me puedes contactar mediante:
-<a href="https://www.linkedin.com/in/cecilia-perdomo/"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/linkedin_button_icon_151847.png" width="125" height="40" /></a> <a href="mailto:cecilia.perdomo@gmail.com?subject=Contacto desde GitHub"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/gmail_button_icon_151848.png" width="125" height="40" /> </a>
+## Me puedes contactar mediante:
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/cecilia-perdomo/" target="_blank" rel="noopener noreferrer" style="margin-right: 20px;">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:cecilia.perdomo@gmail.com?subject=Contacto desde GitHub" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
