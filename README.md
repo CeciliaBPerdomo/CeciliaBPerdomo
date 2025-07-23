@@ -4,7 +4,7 @@
 
 ## 👩🏻‍💻 Mi Perfil 
 ### < Hola :earth_americas: mundo, soy Cecilia Perdomo! :computer: />
-> 💡 *Siempre creando, siempre aprendiendo.*
+> 💡 *En la programación el único límite es tu imaginación*
 
 ## Sobre mí:
 
