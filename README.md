@@ -13,7 +13,8 @@
 - 💼 **Full Stack Software Developer** & **Analista Programadora**.  
 - 📱 **Desarrolladora de apps móviles** que hacen magia.  
 - 🎨 **Diseñadora UX/UI** que entiende a la gente (y al pixel).  
-- 🛠 **Scrum Master**, porque el orden también es sexy.  
+- 🛠 **Scrum Master**, porque el orden también es sexy.
+- 📣 Futura **Community manager** con hambre de estrategia, creatividad y conexión real con la audiencia.
 
 ## Pasatiempos:
 - 👩🏻‍💻 Codear por amor al arte, y al bug que siempre aparece.  
