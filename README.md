@@ -15,12 +15,14 @@
 - 🛠 **Scrum Master**, porque el orden también es sexy.  
 
 ## Pasatiempos:
+- 👩🏻‍💻 Codear por amor al arte, y al bug que siempre aparece.  
 - 📚 Devoro libros como si fueran código.  
 - 🎧 Música en repeat, soundtrack de mi vida.  
 - ✈️ Me encanta viajar a destinos raros, cuanto más inesperado mejor.  
 - 🥳 Salir con mis amigos: buenas charlas, muchas risas y algo rico para compartir.  
 
 > 💡 *Siempre creando, siempre aprendiendo.*
+> 👑 **#CodeQueen**
 
 ## 🛠️ Tecnologías que manejo
 
